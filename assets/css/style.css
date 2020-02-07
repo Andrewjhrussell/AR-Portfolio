@@ -12,8 +12,8 @@
 
 nav a {
     display: inline-block;
-    padding-left: 15px;
-    margin-left: 15px;
+    text-align: center;
+
     line-height: 18px;
     color: #999;
     text-decoration: none;
@@ -34,11 +34,11 @@ nav a {
     border-bottom: 2px solid #cccccc;
   } */
   
+  
 form-group {
   border-left: 0ch;
 }
  
-
 
   
   /* @media only screen and (max-width: 600px) {
