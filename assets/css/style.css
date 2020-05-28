@@ -1,3 +1,7 @@
 body {
-      background: green
+      background-image: url('../images/pattern.png');
+}
+hr {
+      height: 2px;
+      background-color:#636363;
 }
